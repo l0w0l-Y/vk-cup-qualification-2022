@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_category_dzen_interest">Отметьте то, что вам интересно, чтобы настроить Дзен</string>
+    <string name="button_category_choose_later">Позже</string>
+    <string name="button_category_continue">Продолжить</string>
+    <string name="icon_description_add">Добавить</string>
+    <string name="icon_description_check">Выбрано</string>
+</resources>
